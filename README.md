@@ -8,10 +8,23 @@
 # Description
 - This repository was created as a requirement for the course CPE 031-CPE21S1 - Visualizations and Data Analysis
 
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
 # Contents 
 - README.md
 <br>
 <br>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
